@@ -38,12 +38,12 @@ function searchStudent() {
                     <th>Total Marks (Out of 20)</th>
                 </tr>
                 <tr>
-                    <td>${student["Sl. No."]}</td>
-                    <td>${student["Student No."]}</td>
-                    <td>${student["Student Name"]}</td>
-                    <td>${student["Presentation"]}</td>
-                    <td>${student["Content"]}</td>
-                    <td>${student["Viva"]}</td>
+                    <td>${student["Student Number"]}</td>
+                    <td>${student["Name"]}</td>
+                    <td>${student["Age"]}</td>
+                    <td>${student["Gender"]}</td>
+                    <td>${student["PhoneNo"]}</td>
+                    <td>${student["Marks"]}</td>
                     <td>${student["Report"]}</td>
                     <td>${student["Out of 100"]}</td>
                     <td style="font-weight: bold; color: #ff2222;background-color:#ffdd00">${student["Out of 20"]}</td>
