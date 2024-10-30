@@ -1,0 +1,162 @@
+[
+  {
+    "Student Number": 7230001,
+    "Name": "Sonam",
+    "Age": 21,
+    "Gender": "F",
+    "PhoneNo": 17000011,
+    "Marks": 75
+  },
+  {
+    "Student Number": 7230002,
+    "Name": "Tshering",
+    "Age": 21,
+    "Gender": "M",
+    "PhoneNo": 17000005,
+    "Marks": 61
+  },
+  {
+    "Student Number": 7230003,
+    "Name": "Ugyen",
+    "Age": 21,
+    "Gender": "F",
+    "PhoneNo": 17000008,
+    "Marks": 61
+  },
+  {
+    "Student Number": 7230004,
+    "Name": "Sangay",
+    "Age": 19,
+    "Gender": "M",
+    "PhoneNo": 17000008,
+    "Marks": 74
+  },
+  {
+    "Student Number": 7230005,
+    "Name": "Wangmo",
+    "Age": 23,
+    "Gender": "F",
+    "PhoneNo": 17000002,
+    "Marks": 76
+  },
+  {
+    "Student Number": 7230006,
+    "Name": "Samten",
+    "Age": 20,
+    "Gender": "M",
+    "PhoneNo": 17000015,
+    "Marks": 60
+  },
+  {
+    "Student Number": 7230007,
+    "Name": "Wangchuk",
+    "Age": 22,
+    "Gender": "F",
+    "PhoneNo": 17000009,
+    "Marks": 80
+  },
+  {
+    "Student Number": 7230008,
+    "Name": "Kinley",
+    "Age": 23,
+    "Gender": "M",
+    "PhoneNo": 17000016,
+    "Marks": 68
+  },
+  {
+    "Student Number": 7230009,
+    "Name": "Peldon",
+    "Age": 18,
+    "Gender": "F",
+    "PhoneNo": 17000014,
+    "Marks": 77
+  },
+  {
+    "Student Number": 7230010,
+    "Name": "Thinley",
+    "Age": 22,
+    "Gender": "M",
+    "PhoneNo": 17000007,
+    "Marks": 73
+  },
+  {
+    "Student Number": 7230011,
+    "Name": "Zangpo",
+    "Age": 20,
+    "Gender": "F",
+    "PhoneNo": 17000018,
+    "Marks": 74
+  },
+  {
+    "Student Number": 7230012,
+    "Name": "Tara",
+    "Age": 22,
+    "Gender": "M",
+    "PhoneNo": 17000017,
+    "Marks": 60
+  },
+  {
+    "Student Number": 7230013,
+    "Name": "Maya",
+    "Age": 23,
+    "Gender": "F",
+    "PhoneNo": 17000007,
+    "Marks": 60
+  },
+  {
+    "Student Number": 7230014,
+    "Name": "Norbu",
+    "Age": 21,
+    "Gender": "M",
+    "PhoneNo": 17000009,
+    "Marks": 63
+  },
+  {
+    "Student Number": 7230015,
+    "Name": "Pema",
+    "Age": 22,
+    "Gender": "F",
+    "PhoneNo": 17000014,
+    "Marks": 63
+  },
+  {
+    "Student Number": 7230016,
+    "Name": "Wangdi",
+    "Age": 20,
+    "Gender": "M",
+    "PhoneNo": 17000002,
+    "Marks": 66
+  },
+  {
+    "Student Number": 7230017,
+    "Name": "Dechen",
+    "Age": 22,
+    "Gender": "F",
+    "PhoneNo": 17000020,
+    "Marks": 65
+  },
+  {
+    "Student Number": 7230018,
+    "Name": "sushmita",
+    "Age": 19,
+    "Gender": "M",
+    "PhoneNo": 17000018,
+    "Marks": 63
+  },
+  {
+    "Student Number": 7230019,
+    "Name": "Bidha",
+    "Age": 18,
+    "Gender": "F",
+    "PhoneNo": 17000002,
+    "Marks": 78
+  },
+  {
+    "Student Number": 7230020,
+    "Name": "Tenzin",
+    "Age": 23,
+    "Gender": "M",
+    "PhoneNo": 17000015,
+    "Marks": 73
+  }
+]
