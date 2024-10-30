@@ -27,15 +27,14 @@ function searchStudent() {
     resultDiv.innerHTML = `
             <table class="result-table">
                 <tr>
-                    <th>Serial Number</th>
                     <th>Student Number</th>
-                    <th>Student Name</th>
-                    <th>Presentation</th>
-                    <th>Content</th>
-                    <th>Viva</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                    <th>PhoneNo</th>
+                    <th>Marks</th>
                     <th>Report</th>
-                    <th>Total Marks (Out of 100)</th>
-                    <th>Total Marks (Out of 20)</th>
+
                 </tr>
                 <tr>
                     <td>${student["Student Number"]}</td>
@@ -44,8 +43,7 @@ function searchStudent() {
                     <td>${student["Gender"]}</td>
                     <td>${student["PhoneNo"]}</td>
                     <td>${student["Marks"]}</td>
-                    <td>${student["Report"]}</td>
-                    <td>${student["Out of 100"]}</td>
+                  
                     <td style="font-weight: bold; color: #ff2222;background-color:#ffdd00">${student["Out of 20"]}</td>
                 </tr>
             </table>
