@@ -2,7 +2,7 @@
 let studentData = [];
 
 // Fetch the data from students.json
-fetch("students.json")
+fetch("csvjson.json")
   .then((response) => response.json())
   .then((data) => {
     studentData = data; // Store the data in the studentData array
